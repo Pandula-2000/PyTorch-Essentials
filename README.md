@@ -1,2 +1,2 @@
 # PyTorch-Essentials
-BAsic Pytorch stuff
+Basic Pytorch stuff
