@@ -162,4 +162,3 @@ torch.save(model.state_dict(), f=MODEL_SAVE_PATH)
 loaded_model = LinearRegressionModel()
 # Then load the state_dist with pickled values.
 loaded_model.load_state_dict(torch.load(f=MODEL_SAVE_PATH))
-
